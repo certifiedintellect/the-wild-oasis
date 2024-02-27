@@ -62,7 +62,7 @@ function MainNav() {
         <li>
           <StyledNavLink to="/dashboard">
             <HiOutlineHome />
-            <span>Home</span>
+            <span>Home1</span>
           </StyledNavLink>
         </li>
         <li>
